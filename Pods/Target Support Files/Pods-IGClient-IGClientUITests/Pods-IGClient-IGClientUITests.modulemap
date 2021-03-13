@@ -1,0 +1,6 @@
+framework module Pods_IGClient_IGClientUITests {
+  umbrella header "Pods-IGClient-IGClientUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
