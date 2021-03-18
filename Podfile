@@ -8,6 +8,7 @@ target 'IGClient' do
   # Pods for IGClient
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
   target 'IGClientTests' do
     inherit! :search_paths

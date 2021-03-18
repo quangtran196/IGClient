@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A70D969E-8C82-4D9A-B4AE-FEC77107DF7D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5D82339-9692-4CDE-AF00-862E683BA70F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IGClient/FeedViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "FeedViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A5D82339-9692-4CDE-AF00-862E683BA70F - f031d4ac74add30f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IGClient.FeedViewController.commentBar.getter : MessageInputBar.MessageInputBar"
+                  moduleName = "IGClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lemon/Desktop/SJSU/IOS/Instagram/IGClient/IGClient/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "A5D82339-9692-4CDE-AF00-862E683BA70F - 5571bcf5e3b10b33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IGClient.FeedViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IGClient.FeedViewController"
+                  moduleName = "IGClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lemon/Desktop/SJSU/IOS/Instagram/IGClient/IGClient/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "418">
+               </Location>
+               <Location
+                  uuid = "A5D82339-9692-4CDE-AF00-862E683BA70F - 6cbd35518a12e905"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IGClient.FeedViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IGClient.FeedViewController&gt;"
+                  moduleName = "IGClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lemon/Desktop/SJSU/IOS/Instagram/IGClient/IGClient/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "359">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
